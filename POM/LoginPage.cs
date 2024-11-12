@@ -35,7 +35,7 @@ namespace POM
         {
             // Assuming the presence of a specific element indicates that the home page is displayed
             // Replace By.XPath("//...") with the appropriate locator
-            return driver.FindElement(By.XPath("//...")).Displayed;
+            return driver.FindElement(By.XPath("//span[text()='Products']")).Displayed;
         }
 
         public bool IsErrorMessageDisplayed()
