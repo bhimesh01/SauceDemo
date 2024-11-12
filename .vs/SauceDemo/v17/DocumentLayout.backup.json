@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1740C215-4E61-4C63-8727-6933278FA67E}|SauceDemo\\SauceDemo.csproj|c:\\users\\devarla_bhimesh\\source\\repos\\saucedemo\\saucedemo\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1740C215-4E61-4C63-8727-6933278FA67E}|SauceDemo\\SauceDemo.csproj|solutionrelative:saucedemo\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741E6EC5-E525-4D9D-BF86-55CBDD1815A4}|POM\\POM.csproj|c:\\users\\devarla_bhimesh\\source\\repos\\saucedemo\\pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741E6EC5-E525-4D9D-BF86-55CBDD1815A4}|POM\\POM.csproj|solutionrelative:pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741E6EC5-E525-4D9D-BF86-55CBDD1815A4}|POM\\POM.csproj|c:\\users\\devarla_bhimesh\\source\\repos\\saucedemo\\pom\\pom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{741E6EC5-E525-4D9D-BF86-55CBDD1815A4}|POM\\POM.csproj|solutionrelative:pom\\pom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 248,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SauceDemo\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeToolTip": "SauceDemo\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:43:17.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "POM.csproj",
+              "DocumentMoniker": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\POM.csproj",
+              "RelativeDocumentMoniker": "POM\\POM.csproj",
+              "ToolTip": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\POM.csproj",
+              "RelativeToolTip": "POM\\POM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T13:13:53.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\LoginPage.cs",
+              "RelativeDocumentMoniker": "POM\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\LoginPage.cs",
+              "RelativeToolTip": "POM\\LoginPage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:14:23.385Z",
+              "EditorCaption": ""
             }
           ]
         }

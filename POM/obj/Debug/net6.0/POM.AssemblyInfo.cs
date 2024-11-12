@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc00ccc433e9f0323eef8b117d156f987a624d3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("POM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

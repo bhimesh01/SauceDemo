@@ -1,0 +1,12 @@
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\Utilities.sourcelink.json
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\Utilities\obj\Debug\net6.0\ref\Utilities.dll

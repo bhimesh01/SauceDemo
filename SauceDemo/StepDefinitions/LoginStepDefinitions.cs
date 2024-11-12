@@ -2,6 +2,7 @@ using TechTalk.SpecFlow;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using POM;
+using NUnit.Framework;
 
 [Binding]
 public class LoginStepDefinitions

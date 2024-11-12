@@ -1,0 +1,16 @@
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\bin\Debug\net6.0\POM.deps.json
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\bin\Debug\net6.0\POM.dll
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\bin\Debug\net6.0\POM.pdb
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\POM.csproj.AssemblyReference.cache
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\POM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\POM.AssemblyInfoInputs.cache
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\POM.AssemblyInfo.cs
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\POM.csproj.CoreCompileInputs.cache
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\POM.sourcelink.json
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\POM.dll
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\refint\POM.dll
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\POM.pdb
+C:\Users\devarla_bhimesh\source\repos\SauceDemo\POM\obj\Debug\net6.0\ref\POM.dll

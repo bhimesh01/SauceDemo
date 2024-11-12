@@ -4,14 +4,14 @@
     "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\SauceDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\SauceDemo.csproj": {
+    "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\POM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\SauceDemo.csproj",
-        "projectName": "SauceDemo",
-        "projectPath": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\SauceDemo.csproj",
+        "projectUniqueName": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\POM.csproj",
+        "projectName": "POM",
+        "projectPath": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\POM.csproj",
         "packagesPath": "C:\\Users\\devarla_bhimesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\obj\\",
+        "outputPath": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devarla_bhimesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,77 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.26.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\SauceDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\SauceDemo.csproj",
+        "projectName": "SauceDemo",
+        "projectPath": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\SauceDemo.csproj",
+        "packagesPath": "C:\\Users\\devarla_bhimesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\SauceDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\devarla_bhimesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\POM.csproj": {
+                "projectPath": "C:\\Users\\devarla_bhimesh\\source\\repos\\SauceDemo\\POM\\POM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
             "FluentAssertions": {
               "target": "Package",
               "version": "[6.2.0, )"
@@ -57,6 +128,10 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.1.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.26.1, )"
             },
             "SpecFlow.NUnit": {
               "target": "Package",
